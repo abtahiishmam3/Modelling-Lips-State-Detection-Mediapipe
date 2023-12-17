@@ -6,13 +6,17 @@ This repository contains code implementing a lips state detection and classifier
 The primary goal of this project is to detect and classify different states of the lips using advanced computer vision techniques and deep learning. The model leverages the capabilities of MediaPipe for robust facial landmark detection and incorporates the landmark information into a GridSearchCV optimized Support Vector Classifier for accurate lips state classification. The proposed solution delineates solutions that can be applied in non-verbal communication analysis.
 
 ## Features
-### Lips State Detection: Accurate detection of lip features through facial landmark analysis using MediaPipe.
+### Lips State Detection
+Accurate detection of lip features through facial landmark analysis using MediaPipe.
 
-### Real-time Application: Includes functions for realtime application and classification.
+### Real-time Application
+Includes functions for realtime application and classification.
 
-### Classifier Model: A grid search optimized Support Vector Classifier Model for classifying different lips states with examples of training and applications.
+### Classifier Model
+A grid search optimized Support Vector Classifier Model for classifying different lips states with examples of training and applications.
 
-### Inspired by Research: Our approach is grounded in research, as detailed in the paper "Modelling Lips State Detection Using CNN for Non-verbal Communications."
+### Inspired by Research
+Our approach is grounded in research, as detailed in the paper "Modelling Lips State Detection Using CNN for Non-verbal Communications."
 
 ## Dependencies
 Make sure to install the required dependencies before running the code. You can find them in the requirements.txt file.
