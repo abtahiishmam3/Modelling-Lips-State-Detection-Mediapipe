@@ -19,7 +19,7 @@ A grid search optimized Support Vector Classifier Model for classifying differen
 Our approach is grounded in research, as detailed in the paper "Modelling Lips State Detection Using CNN for Non-verbal Communications."
 
 ## Dependencies
-Make sure to install the required dependencies before running the code. You can find them in the requirements.txt file.\
+Make sure to install the required dependencies before running the code. You can find them in the requirements.txt file. \
 conda create --name <env> --file requirements.txt\
 
 ## Usage
