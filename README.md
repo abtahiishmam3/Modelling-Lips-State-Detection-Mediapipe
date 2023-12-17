@@ -33,13 +33,10 @@ Run the main notebook: Modelling-Lips-State-Detection-Mediapipe.ipynb
 ## How to Cite
 If you find this work useful in your research, please consider citing our paper.
 
-DOI: https://doi.org/10.1007/978-981-19-2445-3_5
-
 Ishmam, A., Hasan, M., Hassan Onim, M.S., Roy, K., Hoque Akif, M.A., Nyeem, H. (2022). Modelling Lips State Detection Using CNN for Non-verbal Communications. In: Hossain, S., Hossain, M.S., Kaiser, M.S., Majumder, S.P., Ray, K. (eds) Proceedings of International Conference on Fourth Industrial Revolution and Beyond 2021 . Lecture Notes in Networks and Systems, vol 437. Springer, Singapore. https://doi.org/10.1007/978-981-19-2445-3_5
-Contributing
 
-We welcome contributions from the community! If you would like to contribute to this project, please follow our contribution guidelines. \
+## Contributing
+We welcome contributions from the community! If you would like to contribute to this project, please follow our contribution guidelines.
 
-License 
-
+## License 
 This project is licensed under the MIT License - see the LICENSE file for details. 
