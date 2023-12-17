@@ -20,20 +20,20 @@ Our approach is grounded in research, as detailed in the paper "Modelling Lips S
 
 ## Dependencies
 Make sure to install the required dependencies before running the code. You can find them in the requirements.txt file. \
-conda create --name <env> --file requirements.txt\
+conda create --name <env> --file requirements.txt \
 
 ## Usage
-Clone the repository: git clone https://github.com/abtahiishmam3/Modelling-Lips-State-Detection-Mediapipe.git\
-Navigate to the project directory: cd Modelling-Lips-State-Detection-Mediapipe\
-Run the main notebook: Modelling-Lips-State-Detection-Mediapipe.ipynb\
+Clone the repository: git clone https://github.com/abtahiishmam3/Modelling-Lips-State-Detection-Mediapipe.git \
+Navigate to the project directory: cd Modelling-Lips-State-Detection-Mediapipe \
+Run the main notebook: Modelling-Lips-State-Detection-Mediapipe.ipynb \
 
 ## How to Cite
-If you find this work useful in your research, please consider citing our paper.\
+If you find this work useful in your research, please consider citing our paper. \
 DOI: https://doi.org/10.1007/978-981-19-2445-3_5\
 Ishmam, A., Hasan, M., Hassan Onim, M.S., Roy, K., Hoque Akif, M.A., Nyeem, H. (2022). Modelling Lips State Detection Using CNN for Non-verbal Communications. In: Hossain, S., Hossain, M.S., Kaiser, M.S., Majumder, S.P., Ray, K. (eds) Proceedings of International Conference on Fourth Industrial Revolution and Beyond 2021 . Lecture Notes in Networks and Systems, vol 437. Springer, Singapore. https://doi.org/10.1007/978-981-19-2445-3_5
-Contributing\
+Contributing \
 
-We welcome contributions from the community! If you would like to contribute to this project, please follow our contribution guidelines.\
+We welcome contributions from the community! If you would like to contribute to this project, please follow our contribution guidelines. \
 
-License\
-This project is licensed under the MIT License - see the LICENSE file for details.\
+License \
+This project is licensed under the MIT License - see the LICENSE file for details. \
